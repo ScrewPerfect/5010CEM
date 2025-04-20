@@ -1,0 +1,22 @@
+Title,Body
+User Registration and Login,"- [ ] Register using email or social media
+- [ ] Login securely and reset password
+- [ ] Manage account settings"
+Product Browsing and Search,"- [ ] Sort t-shirts by category, size, color, material, or design
+- [ ] Filter by sale price, value, or availability
+- [ ] Implement keyword search"
+Shopping Cart Functionality,"- [ ] Add/remove items to/from cart
+- [ ] Adjust item quantities
+- [ ] View cart total with taxes"
+Secure Checkout,"- [ ] Support FPX and Touch N Go payments
+- [ ] Allow guest checkout
+- [ ] Option to save payment info for future orders"
+Order Pickup Notification,"- [ ] Notify students when t-shirt is 'Ready to Pick'
+- [ ] Allow students to confirm 'Collected' status"
+Product Management (Admin),"- [ ] Add, edit, or delete t-shirts from catalog
+- [ ] Manage price, size, stock level, and details"
+Order Management (Admin),"- [ ] View and manage pending orders
+- [ ] Print invoices
+- [ ] Mark orders as 'Ready to Pick'"
+Customer Management (Admin),"- [ ] View customer profiles and order history
+- [ ] Configure discounts and promotions"
